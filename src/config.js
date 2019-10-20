@@ -1,4 +1,6 @@
 export default {
+    MAX_ATTACHMENT_SIZE: 5000000,
+    STRIPE_KEY: 'pk_test_zUDbd4CeVkdnQdqxZdt4Ouly00DQ1N2B7f',
     s3: {
         REGION: 'us-east-1',
         BUCKET: 'serverless-stack-notes-app-uploads-kb',
